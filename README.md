@@ -4,7 +4,7 @@
 
 **Utilized from Chainlink VRF to have randomness**
 
-**Solidity is used for creating contarcts**
+**Solidity is used for creating contracts**
 
 **Foundry is used as Framework**
-# smart-contract-lottery
+
